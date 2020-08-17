@@ -26,7 +26,7 @@ This is a responsive website. So, it is suitable for any devices from smartphone
 ## Features
 ### Section 1: Home Screen
 In the Homepage, website show new products through auto carousel. Below carousel, customers can easily see a range of products from shoes to socks.
-![Home](/frontend/GitImage/Home.png)
+![Home1](/frontend/GitImage/Home1.png)
 
 If customers want to find something. At a glance, they can see search bar on top of website and this bar always is on top whether users scroll or not. Futhermore, a menu bar on the top of the left side will list all category the store have, as well as policy, address.
 
