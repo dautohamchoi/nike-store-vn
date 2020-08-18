@@ -8,7 +8,7 @@ Administrative Account:
 
 ID: admin@gmail.com 
 
-Password: admin@gmai.com
+Password: admin
 
 *fully manages a range of products*
 
